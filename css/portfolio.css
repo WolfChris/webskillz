@@ -52,5 +52,30 @@ h2 {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 10px;
+    display: inline-block;
+
+}
+
+/*mobile rules*/ 
+@media screen and (max-width: 480px) {
+    .thumbnail{
+        width: 150px;
+    }
+
+} 
+
+/*tablet rules*/ 
+@media screen and (min-width: 481px) {
+    .thumbnail{
+        width: 250px;
+    }
+
+}
+
+ /*Desktop rules*/ 
+@media screen and (min-width: 769px) {
+    .thumbnail{
+        width: 400px;
+    }
 
 }
