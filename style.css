@@ -1,0 +1,14 @@
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px){
+    body{
+        background-color: ##ECECEA
+     }
+    #wrapper{
+        width:440px;
+        margin: 0 auto;
+    }
+    header{
+        width:440px;
+        background-color: #618A89;
+    }
+    
+}
