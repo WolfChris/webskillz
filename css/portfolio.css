@@ -1,7 +1,8 @@
 @font-face {
+    font-family: "Lato";
+    src: url(../fonts/lato.woff);
     
- font-family: "Lato";
- src: url("https://fonts.googleapis.com/css?family=Lato");
+    /*src: url("https://fonts.googleapis.com/css?family=Lato");*/
 
 }
 
@@ -9,7 +10,7 @@ body {
     
     background-color: #618A89;
     color: white;
-    font-family: 'lato', sans-serif;
+    font-family: "lato";
     text-align: center;
     max-width: 1280px;
     margin-top: 0;
