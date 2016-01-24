@@ -1,8 +1,7 @@
 @font-face {
+    
     font-family: "Lato";
     src: url(../fonts/lato.woff);
-    
-    /*src: url("https://fonts.googleapis.com/css?family=Lato");*/
 
 }
 
@@ -39,8 +38,9 @@ h2 {
 #portfolio{
     
     width: 100%;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0, auto;
+    /*margin-left: 50px auto;
+    margin-right: 50px auto;*/
 }
 
 .thumbnail{
