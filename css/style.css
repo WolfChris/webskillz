@@ -108,11 +108,11 @@ h1{
     bottom:35px;
     left:20px;
 }
-#portfolio{
+/*#portfolio{
     background-color: blue;
     height:900px;
     padding-top: 10px
-}
+}*/
 #contact{
     padding-top: 10px;
     background-color:red;
@@ -131,7 +131,7 @@ h1{
     }
 #index{
     width:100%;
-    background: url(images/indexbild.png) center no-repeat; 
+    background: url(../images/indexbild.png) center no-repeat; 
     background-size: cover;
     height:900px;
 }
@@ -233,11 +233,11 @@ h1{
     bottom:35px;
     left:20px;
 }
-#portfolio{
+/*#portfolio{
     width:100%;
     background-color: blue;
     height:900px;
-}
+}*/
 #contact{
     width:100%;
     background-color:red;
@@ -379,11 +379,11 @@ h1{
     bottom:140px;
     left:160px;
 }
-#portfolio{
+/*#portfolio{
     width:100%;
     background-color: blue;
     height:1000px;
-}
+}*/
 #contact{
     width:100%;
     background-color:red;
